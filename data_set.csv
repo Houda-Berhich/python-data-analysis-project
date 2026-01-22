@@ -1,0 +1,15 @@
+ville_depart;ville_arrivee;distance;hour ;weekday;is_rain;is_rush_hour;trip_duration
+Agadir;Rabat;550;11;1;0;0;660
+Casablanca;Marrakech;240;9;0;1;1;300
+Tanger;F?;320;18;5;0;1;370
+Oujda;Nador;130;16;6;1;1;150
+Marrakech;Agadir;250;8;2;0;1;210
+Rabat;Casablanca;90;17;4;0;1;120
+Fès;Meknès;60;10;1;0;0;75
+Tanger;Tétouan;65;14;6;0;0;80
+Casablanca;El Jadida;100;16;3;1;1;150
+Agadir;Essaouira;175;11;5;0;0;165
+Marrakech;Ouarzazate;200;7;0;0;1;240
+Fès;Oujda;370;15;2;0;0;330
+Rabat;Kenitra;45;18;4;1;1;90
+Casablanca;Settat;70;9;1;0;1;95
